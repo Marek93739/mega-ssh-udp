@@ -82,7 +82,7 @@ export default function HomePage() {
       <Toaster />
       <div className="container mx-auto">
         {isAdmin ? <Udpinput /> : null}
-        <h2 className="text-2xl font-bold text-gray-400 my-6 text-center">Your SSH UDP Cridencial is Waiting For You, <span className="text-green-500">For Free</span> And Available <span className="text-orange-400">24/7</span></h2>
+        <h2 className="text-2xl font-bold text-gray-400 my-6 text-center">Your SSH UDP Credencial is Waiting For You, <span className="text-green-500">For Free</span> And Available <span className="text-orange-400">24/7</span></h2>
         <p className="text-orange-400 text-center font-bold mb-6">Just Copy And Start Using it, AnyTime And AnyWhere ! :</p>
         {udpArrayDATA[0] === null ? (
           <div className="bg-transparent p-2 flex items-center justify-center">
