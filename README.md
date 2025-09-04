@@ -13,4 +13,4 @@
 - **one click to copy Your FREE ssh udp Credential and start using it**
 - **User Friendly Interface, and more...**
 > # Bonus:
-### `Our web app is reuseable web app, so u can clone it and add your own Credential and deploy it any time u want, Enjoy ;)`
+### `Our web app is reuseable web app, so u can clone & Edit it and add your own .env Credential and deploy it any time u want.`
